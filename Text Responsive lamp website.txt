@@ -1,0 +1,236 @@
+========== HEADER ==========
+.nav__logo
+SUN<span>LIGHT</span> 
+
+.nav__link
+Home - Popular - Choose - Products
+
+
+========== HOME ==========
+.home__subtitle
+The best light bulbs
+
+.home__title
+Unique Light <br>
+For You Home
+
+.button
+Discover Now
+
+.button__link
+Watch Video
+
+.home__info-title .home__info-subtitle
+9K<span>+</span>
+Premium <br> Product
+
+2K<span>+</span>
+Happy <br> Customer
+
+28<span>+</span>
+Awards <br> Winning
+
+.home__blob-title
+LIGHT
+
+
+========== POPULAR ==========
+.section__title
+Popular Product
+
+.popular__description
+Find our best products faster and get the 
+quality lights we have for you.
+
+.popular__name .popular__subtitle .popular__price
+Modern Light
+Hanging Light
+<span>$</span>14
+
+Industrial Light
+Hanging Light
+<span>$</span>20
+
+Superbolw Light
+Hanging Light
+<span>$</span>18
+
+Ultrawide Light
+Hanging Light
+<span>$</span>16
+
+Roundness Light
+Hanging Light
+<span>$</span>17
+
+
+========== CHOOSE ==========
+.choose__blob-title
+LIGHT
+
+.section__title
+Why Choose Us
+
+.choose__description
+Our products have won numerous awards 
+and we can guarantee the unlimited 
+quality of our products.
+
+.choose__faq-title .choose__faq-description
+Frequently New Design
+We make new designs every year, 
+fashion designs, trending and of 
+the best quality.
+
+Original Production
+We are the industrial chain of 
+quality lighting products and offer 
+the most advantageous price.
+
+Production With Large Stock
+You will not be left without the lamp 
+you chose, we have a large stock 
+possible in all models.
+
+Professional Quality Control
+Our quality control does everything 
+possible to send you the best 
+possible product for your home.
+
+// 1. Select each item
+
+// 2. Select each button click
+
+// 3. Create function to display the content
+   // 3.1. Select each faq content
+
+// 4. Add max-height to the content and add the faq-open class
+
+// 5. Call the toggleItem function
+
+// 6. If the same item contains the faq-open class, remove
+
+// 7. Select the current faq-open class
+
+// 8. Remove the faq-open class from other items
+
+
+========== FEATURES ==========
+.features__blob-title
+LIGHT
+
+.section__title
+Latest Features
+
+.choose__description
+We always provide the latest and best 
+features for your customer, don't worry, we 
+provide the latest technology for you.
+
+.features__info-title
+Voltage <br> Settings
+
+Application <br> Control
+
+Voice <br> Control
+
+Schedule <br> Settings
+
+
+========== PRODUCTS ==========
+.section__title
+Our Product
+
+.products__description
+Discover all our unique products that 
+are suitable for your home.
+
+.products__name .products__subtitle .products__price
+Modern Light
+Hanging Light
+<span>$</span>14
+
+Industrial Light
+Hanging Light
+<span>$</span>20
+
+Superbolw Light
+Hanging Light
+<span>$</span>18
+
+Ultrawide Light
+Hanging Light
+<span>$</span>16
+
+Roundness Light
+Hanging Light
+<span>$</span>17
+
+Stickness Light
+Hanging Light
+<span>$</span>28
+
+Superjet Light
+Hanging Light
+<span>$</span>15
+
+Nakedness Light
+Hanging Light
+<span>$</span>10
+
+
+========== JOIN ==========
+.join__blob-title
+LIGHT
+
+.section__title
+Get Started
+
+.join__description
+Do not miss it, join us and get <br>
+interesting discounts with us.
+
+.join__input placeholder
+Enter your email
+
+.join__button
+Join Now
+
+
+========== FOOTER ==========
+.footer__logo
+SUN<span>LIGHT</span>
+
+.footer__description
+We have a vision to make <br> 
+lighting evenly distributed to all <br> 
+parts of the earth.
+
+footer__title .footer__link
+About
+ About Us
+ Features
+ News & Blog
+
+Movement
+ What Sunlight
+ Support Us
+
+Company
+ Why Sunlight
+ Capital
+ Security
+
+Follow Us 
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__terms
+
+Terms & Agreements
+Privacy Policy
+
+.footer__copy
+&#169; Copyright Bedimcode. All rights reserved
